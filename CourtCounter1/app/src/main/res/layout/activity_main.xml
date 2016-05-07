@@ -70,7 +70,7 @@
         </LinearLayout>
         <View
             android:id="@+id/myview"
-            
+            android:layout_marginTop="16dp"
             android:layout_width="1dp"
             android:layout_height="325dp"
             android:background="@android:color/darker_gray"
